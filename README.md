@@ -1,2 +1,5 @@
-# Simple-Shopping-Cart
-Simple shopping cart built with HTML, CSS, and vanilla JavaScript featuring item management and dynamic total calculation.
+A basic shopping cart application using vanilla JavaScript. Users can:
+- Add products to the cart
+- Remove items from the cart
+- Store cart in localStorage
+- See the total price update dynamically
